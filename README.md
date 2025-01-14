@@ -131,12 +131,19 @@ This project aims to:
 - 🥇 High accuracy in detecting plant diseases.
 - ⏱️ Real-time feedback through a simple image upload interface.
 
-### 📸 Figures
+## 📸 Screenshots 
 
-- **[Figure 1: Home Page 🏠](https://github.com/amitkumardemo/Plant-Disease-Detection-System/blob/main/Screenshots/Screenshot%202025-01-10%20180549.png)**  
-- **[Figure 2: Plant Disease Detection System Page 🌱](https://github.com/amitkumardemo/Plant-Disease-Detection-System/blob/main/Screenshots/System_Page)**  
-- **[Figure 3: Prediction Output Page 📊](https://github.com/amitkumardemo/Plant-Disease-Detection-System/blob/main/Screenshots/Prediction_Page)**  
-- **[Figure 4: Training Accuracy and Loss Graphs 📉](https://github.com/amitkumardemo/Plant-Disease-Detection-System/blob/main/Screenshots/Training_Graphs)**  
+### Home Page 
+<img src="https://github.com/amitkumardemo/Plant-Disease-Detection-System/blob/main/Screenshots/Screenshot%202025-01-10%20180531.png" alt="Home Page" width="600" height="400">  
+
+### Plant Disease Detection System Page 
+<img src="https://github.com/amitkumardemo/Plant-Disease-Detection-System/blob/main/Screenshots/Screenshot%202025-01-10%20180549.png" alt="Plant Disease Detection System Page Page" width="600" height="400">  
+
+### Prediction Output Page 📊 
+<img src="https://github.com/amitkumardemo/Plant-Disease-Detection-System/blob/main/Screenshots/Screenshot%202025-01-10%20180637.png" alt="Prediction Output Page" width="600" height="400">  
+
+### Training Accuracy and Loss Graphs 📉
+<img src="https://github.com/amitkumardemo/Plant-Disease-Detection-System/blob/main/Screenshots/Screenshot%202025-01-10%20180418.png" alt="Training Accuracy and Loss Graphs" width="600" height="400">  
 
 
 ---
