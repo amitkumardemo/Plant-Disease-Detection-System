@@ -133,7 +133,7 @@ This project aims to:
 
 ### 📸 Figures
 
-- **[Figure 1: Home Page 🏠](https://github.com/amitkumardemo/Plant-Disease-Detection-System/blob/main/Screenshots/Home_Page)**  
+- **[Figure 1: Home Page 🏠](https://github.com/amitkumardemo/Plant-Disease-Detection-System/blob/main/Screenshots/Screenshot%202025-01-10%20180549.png)**  
 - **[Figure 2: Plant Disease Detection System Page 🌱](https://github.com/amitkumardemo/Plant-Disease-Detection-System/blob/main/Screenshots/System_Page)**  
 - **[Figure 3: Prediction Output Page 📊](https://github.com/amitkumardemo/Plant-Disease-Detection-System/blob/main/Screenshots/Prediction_Page)**  
 - **[Figure 4: Training Accuracy and Loss Graphs 📉](https://github.com/amitkumardemo/Plant-Disease-Detection-System/blob/main/Screenshots/Training_Graphs)**  
