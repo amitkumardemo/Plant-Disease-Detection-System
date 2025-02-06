@@ -1,6 +1,6 @@
 # 🌱 Plant Disease Detection System 🌿
 
-A project report submitted in partial fulfillment of the requirements of **AICTE Internship on AI: Transformative Learning** with **TechSaksham – A joint CSR initiative of Microsoft & SAP**........................................
+A project report submitted in partial fulfillment of the requirements of **AICTE Internship on AI: Transformative Learning** with **TechSaksham – A joint CSR initiative of Microsoft & SAP**.......................................
 
 ---
 
